@@ -1,7 +1,6 @@
 package com.designPattern.Adapter;
 
 import com.designPattern.Adapter.player.Foreign_Player;
-import com.designPattern.Adapter.player.NBA_player;
 import com.designPattern.Adapter.player.Native_Player;
 
 public class Adapter_Translator implements Native_Player {

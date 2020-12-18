@@ -1,7 +1,6 @@
 package com.designPattern.Adapter;
 
 import com.designPattern.Adapter.player.CHN_player;
-import com.designPattern.Adapter.player.NBA_player;
 import com.designPattern.Adapter.player.Native_Player;
 
 /*=================客户端====================*/
